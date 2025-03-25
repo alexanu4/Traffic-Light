@@ -5,6 +5,7 @@ A simple Arduino project to simulate a traffic light.
 ## Schematics
 
 
+
 ## Pre-requisites
 - 7 x Jumper Wires
 - 1 x Arduino Uno
