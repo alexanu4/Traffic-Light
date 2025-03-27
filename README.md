@@ -1,5 +1,5 @@
 # Traffic Light
-A simple Arduino project to simulate a traffic light.
+A simple yet effective Arduino project that simulates the functionality of a real traffic light system. The project uses an Arduino Uno, a breadboard, and three LEDs (red, yellow, and green) to replicate the behavior of a standard traffic signal. The goal is to demonstrate basic circuit design and Arduino programming, making it an excellent learning project for beginners in electronics and embedded systems.
 
 
 ## Schematics
